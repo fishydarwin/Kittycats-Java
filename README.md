@@ -3,7 +3,11 @@
 This is a simple Java Swing app that will display a random cat image from Imgur.
 The app uses cached data from Imgur so hopefully it should never get ratelimited.
 
+<<<<<<< HEAD
 ![Windows Demo of App](https://github.com/fishydarwin//blob/master/__demo/demo_windows.png?raw=true)
+=======
+![Windows Demo of App](https://raw.githubusercontent.com/fishydarwin/Kittycats-Java/master/__demo/demo_windows.png?token=GHSAT0AAAAAACEYEASKBYJYK55J53HMFP7OZFMK4JQ)
+>>>>>>> 6602413 (Add README.md)
 
 ### Building the app
 
